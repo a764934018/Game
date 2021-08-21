@@ -8,7 +8,7 @@
 - 按左右控制小车移动
 
 ## 编译:
-- 下载代码
+- 下载代码: git clone --recurse-submodules https://github.com/a764934018/Game.git
 - 安装[CMake](https://cmake.org)，并确认cmd能访问cmake
 - 安装Vistual Studio, 推荐2015以上，越新越好
 - 打开 VS开发人员命令提示符(必须), cd到代码目录，执行build.bat
